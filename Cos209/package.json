@@ -1,0 +1,12 @@
+{
+  "name": "es6-assignment",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Examples of ES6 features for BU-COS 209 assignment",
+  "main": "modules/main.mjs",
+  "scripts": {
+    "start": "node modules/main.mjs"
+  },
+  "author": "",
+  "license": "MIT"
+}
